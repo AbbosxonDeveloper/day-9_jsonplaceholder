@@ -1,0 +1,38 @@
+[
+    {
+        "title": "tortinchi id",
+        "created": 789541,
+        "body": "qwerty@gmail.com",
+        "newsId": 4
+    },
+    {
+        "title": "'abbos dev'",
+        "created": 228,
+        "body": "no emmail",
+        "newsId": 5
+    },
+    {
+        "title": "fozil",
+        "created": "12345",
+        "body": "salim@gmail.com",
+        "newsId": 7
+    },
+    {
+        "newsId": 7,
+        "title": "nick name",
+        "body": "lorem ipsum",
+        "created": "08.08.2022"
+    },
+    {
+        "title": "never use lorem",
+        "body": "developer abbos",
+        "created": "Mon Aug 08 2022",
+        "newsId": 9
+    },
+    {
+        "title": "learn C#",
+        "body": ".net new",
+        "created": "Mon Aug 08 2022",
+        "newsId": 10
+    }
+]

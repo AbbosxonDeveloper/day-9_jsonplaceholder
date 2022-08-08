@@ -1,0 +1,31 @@
+[{
+        "userId": 1,
+        "username": "salim",
+        "password": "12345",
+        "email": "salim@gmail.com"
+    },
+    {
+        "username": "fozil",
+        "password": "12345",
+        "email": "salim@gmail.com",
+        "userId": 2
+    },
+    {
+        "username": "jhon",
+        "password": 234,
+        "email": "jhon@dogs.com",
+        "userId": 3
+    },
+    {
+        "username": "Abdumannan",
+        "password": 789541,
+        "email": "qwerty@gmail.com",
+        "userId": 4
+    },
+    {
+        "username": "nima",
+        "email": "siuuuuu",
+        "password": "siuuuu",
+        "userId": 5
+    }
+]
